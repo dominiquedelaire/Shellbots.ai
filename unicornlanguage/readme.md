@@ -1,5 +1,4 @@
-
-![unicorn language logo](https://github.com/user-attachments/assets/6b8f3472-c3b2-4b4c-9c3f-e9f5c20348af)
+![unicorn language logo transparent](https://github.com/user-attachments/assets/c54f3ca5-f447-47e5-bb91-1d5847a4d7bf)
 
 > I created **`Unicorn language`** to create quickly GUI interface for IA Services. You can use Unicorn also to create GUI for game, audio, machine learning, health solutions, etc.
 > No need to know Python or specific library. Solutions created with Unicorn can be run on linux, windows, macos, shellbotsos, azure, amazon, etc.
