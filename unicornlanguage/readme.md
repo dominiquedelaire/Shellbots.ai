@@ -19,7 +19,17 @@ Unicorn translate his code in real time to python/dearpygui library code that di
 ## Documentation
 ### objects function
 
-**`window`**
+**`label`**   
+_Create a label._
+- **parent :** window
+- **parameters :**
+  - text : Text of label
+- **example :**   
+`label "Register New Account"` 
+
+**`window`**   
+_Create a window to integrate all Unicorn object type._
+- **parent :** none
 - **parameters :**
   - label : label of window
   - width : width in pixels
