@@ -11,17 +11,23 @@ Unicorn translate his code in real time to python/dearpygui library code that di
 
 ## Versions history
 
-
+## Architecture
 
 ## Tutorials
 
 
 ## Documentation
+### objects function
+
+**`window`**
+- **parameters :**
+  - label : label of window
+  - width : width in pixels
+  - height : height in pixels 
+- **example :**   
+`window "User Registration" width=400 height=300 :` 
 
 
-
-
-## Architecture
 
 
 
