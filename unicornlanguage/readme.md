@@ -15,7 +15,7 @@
 ## Tutorials
 [All unicorn source code examples for tutorials are here](https://github.com/dominiquedelaire/Shellbots.ai/tree/main/unicornlanguage/tutorials)
 
-### Hello World
+### [Hello World](https://github.com/dominiquedelaire/Shellbots.ai/tree/main/unicornlanguage/tutorials/Hello%20World)
 
 ```unicorn
 # My first program in unicorn
