@@ -17,7 +17,6 @@
 
 ```unicorn
 # My first program in unicorn
-
 app "Hello World" width=600 height=600
 window "Hello World" width=300 height=200 :
     label "Hello, World!"
