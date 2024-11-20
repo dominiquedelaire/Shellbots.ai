@@ -12,6 +12,9 @@
 
 ## Architecture
 
+## Optimization to reduce source code for Unicorn
+[Unicorn.config](unicorn.config)
+
 ## Tutorials
 
 
