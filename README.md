@@ -9,10 +9,6 @@ Its other added value is to have a platform that brings together all the AI â€‹â
 Framework and Operating system to create custom AI services and process.   
 > Our virtual machine and opensource OS will be available shortly on this platform once all the documentation is completed. We spent around almost 3 years building this platform :)
 
-## Project Management
-
-[Link to our devops tasks and project management in GitHub to follow dev](https://github.com/users/neuronessolutions/projects/5)
-
 ## Tutorials
 
 [Tuto01 - Basic functions from shellbots](https://github.com/nuage365/Shellbots.ai/blob/main/Tutorials/Tuto01%20-%20Basic%20functions%20from%20shellbots.md)  
