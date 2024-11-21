@@ -7,7 +7,9 @@
 
 ```
 Unicorn create simple function to create ai complex program and translate complex function
-to create gui complex mixing Camera IA, Audio, LLM, Generative IA engine, Signal processing, Image processing, Interactive Graphics, etc.
+to create gui complex mixing Camera IA, Audio, LLM, Generative IA engine, Signal processing, Image processing,
+Interactive Graphics, etc.
+
 We mix several libraries as DearPyGui, Shellbots, OpenCV, langchain, etc.
 ```
 
