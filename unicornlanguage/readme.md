@@ -1,10 +1,14 @@
 ![unicorn language logo (1)](https://github.com/user-attachments/assets/b897f5bb-a04f-4fbf-96dd-0d59ae978562)
 
 
-> - I created **`Unicorn language`** for shellbots to **`create quickly GUI interface for IA Services`**. You can use Unicorn also to **`create GUI for game, audio, machine learning, health solutions, etc.`**   
+> - I created **`Unicorn language`** for shellbots to **`create quickly GUI interface for IA Services`**. You can use Unicorn also to **`create GUI for game, audio, machine learning, health solutions, Camera app, etc.`**   
 > - No need to know Python or specific library. Solutions created with Unicorn can be run on linux, windows, macos, shellbotsos, and cloud platforms (azure, amazon, etc.).  
-> - **`Compile to get in real time Python / dearpygui code ready to execute for your ia services or others programs.`**
+> - **`Compile to get in real time Python code ready to execute for your ia services or others programs.`**
 
+```
+Unicorn create simple function to create ai complex program and translate complex function
+ to create gui complex mixing Camera IA, Audio, Signal processing, Image processing, Interactive Graphics, etc.
+```
 
 # Unicorn - Documentation and Tutorials
 
